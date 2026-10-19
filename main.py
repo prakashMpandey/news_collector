@@ -38,7 +38,7 @@ def collect_news():
    
 
 collect_news()
-print("Collected news articles:",news)
+
 
 
 def send_webhook_message(category, articles):
